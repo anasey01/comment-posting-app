@@ -1,0 +1,24 @@
+{
+  "name": "comment-posting-app",
+  "version": "1.0.0",
+  "description": "A comment App",
+  "main": "chirpApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anasey01/comment-posting-app.git"
+  },
+  "keywords": [
+    "ChirpApp",
+    "MEAN",
+    "MVC"
+  ],
+  "author": "Oluseyi Anani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anasey01/comment-posting-app/issues"
+  },
+  "homepage": "https://github.com/anasey01/comment-posting-app#readme"
+}
