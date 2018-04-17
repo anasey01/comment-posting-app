@@ -44,7 +44,7 @@ router.route('/posts')
 			if(err){
 				return res.send(500, err);
 			}
-			return res.send(posts);
+			return res.send(200, posts);
 		});
 	});
 

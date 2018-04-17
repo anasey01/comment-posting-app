@@ -19,7 +19,7 @@ module.exports = function(passport){
 		failureRedirect: '/auth/failure'
 	}));
 
-	//Register
+	//Sign up
 	router.post('/signup', passport.authenticate('signup', {
 		successRedirect: '/auth/success',
 		failureRedirect: '/auth/failure'
